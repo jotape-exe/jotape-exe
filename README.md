@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning Java and Kotlin
 - 📫 How to reach me: jmarke31@gmail.com
 
-<div>
+<div aligin="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotape-exe&layout=compact&theme=material-palenight" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jotape-exe" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jotape-exe&layout=compact&theme=material-palenight" />
 </div>
 
 <!---
