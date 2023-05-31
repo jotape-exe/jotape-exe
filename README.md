@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m João Pedro<br>👀 I’m interested in Backend development<br>🌱 I’m currently learning Java and Kotlin<br>📫 How to reach me: jmarke31@gmail.com
+👋 Hi, I’m João Pedro<br>👀 I’m interested in Backend development<br>🌱 I’m currently learning Java and Kotlin<br>📫 How to reach me: joaoxstone@gmail.com
 
 
 ## 🌐 Socials:
