@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💠 About Me:
 👋 Hi, I’m João Pedro<br>👀 I’m interested in Software development<br>🌱 I’m currently learning Android<br>📫 How to reach me: joaoxstone@gmail.com
 
 
