@@ -12,3 +12,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jotape-exe&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Songs <img src="https://media3.giphy.com/media/SBPsoblpU8IhYIXWGk/giphy.gif?cid=ecf05e47xuvmorzzg704omcyhkjaatgeag84awrwuluswqsc&ep=v1_gifs_related&rid=giphy.gif" width="100px" height="100px" align="right">
+
+<p align="center">
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31nc4p5mgikkdyf6rmimax2mah2m">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31nc4p5mgikkdyf6rmimax2mah2m" alt="Data Card for Spotify">
+</a>
+</p>
