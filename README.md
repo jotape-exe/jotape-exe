@@ -1,5 +1,5 @@
 # 💠 About Me:
-👋 Hi, I’m João Pedro<br>👀 I’m interested in Software development<br>🌱 I’m currently learning Android<br>📫 How to reach me: joaoxstone@gmail.com
+👋 Hi, I’m João Pedro<br>👀 I’m interested in Software development<br>🌱 I’m currently learning Jetpack Compose<br>📫 How to reach me: joaoxstone@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-psv/) 
