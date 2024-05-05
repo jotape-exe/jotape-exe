@@ -1,5 +1,5 @@
 ## 💬 About Me:
-Welcome! I'm João Pedro (_Pronunciation: 'Жо-ˈɐ̃w ˈpe-dɾu'_). I'm a software developer who loves contributing to open source projects. I currently work with Vue/Nuxt JS and Jetpack Compose.
+Welcome! I'm João Pedro (_Pronunciation: 'jo ownˈpe-dɾu'_). I'm a software developer who loves contributing to open source projects. I currently work with Vue/Nuxt JS and Jetpack Compose.
 
 I invite you to browse my projects and share knowledge \o/
 
