@@ -1,9 +1,18 @@
+🇬🇧, 🇺🇸
 ## 💬 About Me:
 Welcome! I'm João Pedro. I'm a software developer who loves contributing to open source projects. I currently work with Vue/Nuxt JS and Jetpack Compose.
 
 I invite you to browse my projects and share knowledge \o/
 
 <br>📫 How to reach me: joaoxstone@gmail.com
+
+🇧🇷
+Olá! Eu sou o João Pedro. Sou um desenvolvedor de software que adora contribuir com projetos de código aberto. Atualmente trabalho com Vue/Nuxt JS e Jetpack Compose.
+
+Convido você a navegar pelos meus projetos e compartilhar conhecimento \o/
+
+<br>📫 Como entrar em contato comigo: joaoxstone@gmail.com
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg??style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-psv/) 
