@@ -1,12 +1,12 @@
 🇬🇧, 🇺🇸
-Welcome! I'm João Pedro. I'm a software developer who loves contributing to open source projects. I currently work with Vue/Nuxt JS and Jetpack Compose.
+Welcome! I'm João Pedro. I'm a software developer who loves contributing to open source projects. I currently work with Vue/Nuxt JS Java and Kotlin.
 
 I invite you to browse my projects and share knowledge \o/
 
 <br>📫 How to reach me: joaoxstone@gmail.com
 
 🇧🇷
-Olá! Eu sou o João Pedro. Sou um desenvolvedor de software que adora contribuir com projetos de código aberto. Atualmente trabalho com Vue/Nuxt JS e Jetpack Compose.
+Olá! Eu sou o João Pedro. Sou um desenvolvedor de software que adora contribuir com projetos de código aberto. Atualmente trabalho com Vue/Nuxt JS, Java e Kotlin.
 
 Convido você a navegar pelos meus projetos e compartilhar conhecimento \o/
 
